@@ -161,8 +161,28 @@
 
 <hr />
 
+### What I enjoy building 🧩
+I Like building web and mobile applications. One of my favorite projects so far is a [Blog Platform](https://bloggy-pro-three.vercel.app/) with real-time comments and presence indicator built with Next JS. In general, I enjoy taking small ideas and turning them into something usable.
 
+### Current Focus 📱
+Right now, I'm mainly focusing on getting more comfortable with mobile developement using React Native and Expo. I'm also trying to build more projects over time so I can learn by doing and see steady progress in my skills.
 
+### How I think as a developer 🧠
+Writing clean, organized, and maintainable code matters a lot to me, and I try to keep my projects structured and easy to work with. I like to stay up to date with modern technologies while still choosing tools that are reliable and makes sense for the problem. Over time, I'd like to work more with others on bigger projects and eventually share what I've learned with people who are just getting started.
 
+<br /> <br />
 
-
+## <p align="center">Ways to contact me</p>
+<div align="center">
+  <a href="mailto:ariarzg@gmail.com">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" height="60" alt="Gmail logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://telegram.me/Aria_rzg">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=telegram" height="60" alt="Telegram logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://linkedin/in/ariarzg">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" height="60" alt="Linkedin logo"  />
+  </a>
+</div>
