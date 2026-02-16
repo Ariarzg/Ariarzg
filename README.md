@@ -182,7 +182,7 @@ Writing clean, organized, and maintainable code matters a lot to me, and I try t
     <img src="https://go-skill-icons.vercel.app/api/icons?i=telegram" height="60" alt="Telegram logo"  />
   </a>
   <img width="12" />
-  <a href="https://linkedin/in/ariarzg">
+  <a href="https://linkedin.com/in/ariarzg">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" height="60" alt="Linkedin logo"  />
   </a>
 </div>
