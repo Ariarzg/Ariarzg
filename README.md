@@ -8,7 +8,161 @@
 *   👥  I'm looking to collaborate on Web Application
 *   ⚡  I'm secretly Lev Yashin in disguise...
 
-# Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
-<samp>Tools & Technologies</samp> | <samp>Badge</samp> | 
---- | --- |
-<samp>Programming Languages</samp> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<br />
+
+### What I work with <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="26">
+<div>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript" height="60" alt="Typescript logo"/>
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react" height="60" alt="React logo"  />
+  <img width="12" /> 
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs" height="60" alt="Next JS logo"  />
+  <img width="12" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative" height="60" alt="React Native logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=redux" height="60" alt="Redux logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=zustand" height="60" alt="Zustand logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vuejs" height="60" alt="Vue JS logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pinia" height="60" alt="Pinia logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=md" height="60" alt="Markdown logo"  />
+  <img width="12" /> 
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwindcss" height="60" alt="Tailwind CSS logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sass" height="60" alt="Sass logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn" height="60" alt="Shadcn logo"  />
+  <img width="12" />   
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=radix" height="60" alt="Radix logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=daisyui" height="60" alt="Daisy UI logo"  />
+  <img width="12" /> 
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gsap" height="60" alt="GSAP logo"  />
+  
+</div>
+<br />
+<div> 
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=storybook" height="60" alt="Storybook logo"  /> 
+  <img width="12" /> 
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=websocket" height="60" alt="Websockets logo"  />
+  <img width="12" /> 
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=socketio" height="60" alt="Socket IO logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pnpm" height="60" alt="PNPM logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=npm" height="60" alt="NPM logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=webstorm" height="60" alt="Webstorm logo"  /> 
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" height="60" alt="VS Code logo"  />
+  <img width="12" /> 
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=vite" height="60" alt="Vite logo"  />
+  <img width="12" />   
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=eslint" height="60" alt="Eslint logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=prettier" height="60" alt="Prettier logo"  />
+  <img width="12" /> 
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" height="60" alt="Vercel logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=netlify" height="60" alt="Netlify logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vitest" height="60" alt="Sass logo"  />
+</div>
+<br /> <br />
+
+<div>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java" height="60" alt="Java logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" height="60" alt="Node JS logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=spring" height="60" alt="Spring logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=springsecurity" height="60" alt="Spring Security logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql" height="60" alt="PostgreSQL logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" height="60" alt="Mongo DB logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=drizzle" height="60" alt="Drizzle logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=prisma" height="60" alt="Prisma logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=hibernate" height="60" alt="Hibernate logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jwt" height="60" alt="JWT logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=idea" height="60" alt="IntelliJ logo"  />
+  <img width="12" /> 
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=warp" height="60" alt="Warp logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postman" height="60" alt="Postman logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=api" height="60" alt="Api logo"  />
+</div>
+<br />
+<div>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=appwrite" height="60" alt="Appwrite logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=firebase" height="60" alt="Firebase logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=supabase" height="60" alt="Supabase logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=clerk" height="60" alt="Clerk logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=betterauth" height="60" alt="Better Auth logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=maven" height="60" alt="Maven logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker" height="60" alt="Docker logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git" height="60" alt="Git logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=github" height="60" alt="Github logo"  />
+</div>
+
+<br /> <br />
+
+<div>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=android" height="60" alt="Android logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=windows" height="60" alt="Windows logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux" height="60" alt="Linux logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=arch" height="60" alt="Arch logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu" height="60" alt="Ubuntu logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=hyprland" height="60" alt="Hyprland logo"  />
+  <img width="12" /> 
+</div>
+
+<br />
+
+<div>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" height="60" alt="Chatgpt logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=claude" height="60" alt="Claude logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=deepseek" height="60" alt="Deepseek logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" height="60" alt="Gemini logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=githubcopilot" height="60" alt="Github Copilot logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=grok" height="60" alt="Grok logo"  />
+  <img width="12" />  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=n8n" height="60" alt="n8n logo"  />
+  <img width="12" /> 
+</div>
+
+<hr />
+
+
+
+
+
+
